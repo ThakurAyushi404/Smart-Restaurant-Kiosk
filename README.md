@@ -7,9 +7,13 @@ This repository presents an overview of the **Kiosk system** I built using **ASP
 ## 📸 Preview
 
 <p align="center">
-  <img src="screenshots/kiosk-home.png" width="300"/>
-  <img src="screenshots/customization-screen.png" width="300"/>
-  <img src="screenshots/payment-status.png" width="300"/>
+    <img src="Resturant-kiosk\Home-1.jpg" width="300"/>
+  <img src="Resturant-kiosk\Menu.jpg" width="300"/>
+     <img src="Resturant-kiosk\Description1.jpg" width="300"/>
+  <img src="Resturant-kiosk\Promotions-popup.jpg" width="300"/>
+  <img src="Resturant-kiosk\Thank You-1.jpg" width="300"/>
+ 
+
 </p>
 
 ## 🛠️ Tech Stack
